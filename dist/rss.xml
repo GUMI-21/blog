@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gumi&apos;s Blog</title><description>Zhang Wenhao</description><link>https://gumi-21.github.io/</link><language>zh_CN</language><item><title>init</title><link>https://gumi-21.github.io/blog/posts/init/</link><guid isPermaLink="true">https://gumi-21.github.io/blog/posts/init/</guid><pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;hr /&gt;
-&lt;h2&gt;title: My First Blog Post
-published: 2025-08-29
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg
-tags: [Foo, Bar]
-category: Front-end
-draft: false
-lang: zh-cn      # 仅当文章语言与 &lt;code&gt;config.ts&lt;/code&gt; 中的网站语言不同时需要设置&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;第一篇测试文章-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;粗体&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-&lt;p&gt;换行&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gumi&apos;s Blog</title><description>Zhang Wenhao</description><link>https://gumi-21.github.io/</link><language>zh_CN</language><item><title>重启</title><link>https://gumi-21.github.io/blog/posts/article/%E6%B5%8B%E8%AF%95-first/</link><guid isPermaLink="true">https://gumi-21.github.io/blog/posts/article/%E6%B5%8B%E8%AF%95-first/</guid><description>花了一点时间重新用Astro部署了博客</description><pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;重启&lt;/h2&gt;
+&lt;p&gt;上一次写博客还是三年前-刚毕业的时候，后来嫌麻烦，就只用Obisdian来把所有的笔记放在一起了，导致笔记也越来越臃肿。
+现在时间充裕了点，准备重新把自己有价值的笔记搬到博客上面，顺便记录自己的学习与生活。&lt;/p&gt;
 </content:encoded></item><item><title>Simple Guides for Fuwari</title><link>https://gumi-21.github.io/blog/posts/guide/</link><guid isPermaLink="true">https://gumi-21.github.io/blog/posts/guide/</guid><description>How to use this blog template.</description><pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;Cover image source: &lt;a href=&quot;https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/208fc754-890d-4adb-9753-2c963332675d/width=2048/01651-1456859105-(colour_1.5),girl,_Blue,yellow,green,cyan,purple,red,pink,_best,8k,UHD,masterpiece,male%20focus,%201boy,gloves,%20ponytail,%20long%20hair,.jpeg&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
