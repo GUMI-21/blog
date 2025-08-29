@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "26106d13806fc0bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c4770973047c30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149b57e3ec05bcfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "src/content/posts/article/测试-first.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测试-first"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed4b22322af24329",
+    "type": "split",
+    "children": [
+      {
+        "id": "c32a9adbbf1fcc0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "518c74a6288cc682",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "09765578a7299a39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "29f1f535e622eb1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "428ea5bce96d186c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bf16245c84bf192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ff823b719590cd9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "src/content/posts/article/测试-first.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 测试-first"
+            }
+          },
+          {
+            "id": "a151f39c0fc8b1e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "src/content/posts/article/测试-first.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 测试-first"
+            }
+          },
+          {
+            "id": "cd7a76fbc6543d3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37b646022f8f9191",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "src/content/posts/article/测试-first.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 测试-first"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "149b57e3ec05bcfa",
+  "lastOpenFiles": [
+    "dist/pagefind/index/zh-cn_e793699.pf_index",
+    "dist/pagefind/fragment/zh-cn_e1aa9ce.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_83b12a7.pf_fragment",
+    "dist/pagefind/fragment/zh-cn_3ccf262.pf_fragment",
+    "dist/pagefind/wasm.unknown.pagefind",
+    "dist/pagefind/pagefind.zh-cn_30a7407dbacc6.pf_meta",
+    "dist/pagefind/pagefind.js",
+    "dist/pagefind/pagefind-ui.js",
+    "dist/pagefind/pagefind-ui.css",
+    "dist/pagefind/pagefind-modular-ui.js",
+    "dist/pagefind/pagefind-modular-ui.css",
+    "dist/_astro/cover.CgGywNHJ_Z6IV8B.webp",
+    "dist/_astro/demo-banner.CpFpbBIt_ZsRzlg.webp",
+    "dist/_astro/demo-avatar.gS5jvBoQ_1JVHJC.webp",
+    "dist/_astro/demo-banner.CpFpbBIt.png",
+    "dist/_astro/demo-avatar.gS5jvBoQ.png",
+    "dist/_astro/cover.CgGywNHJ.jpeg",
+    "dist/_astro/cover.Bj_Q19KX.jpg",
+    "dist/favicon/favicon-light-32.png",
+    "dist/favicon/favicon-light-192.png",
+    "dist/favicon/favicon-light-180.png",
+    "src/content/posts/article/测试-first.md"
+  ]
+}
