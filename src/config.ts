@@ -74,6 +74,11 @@ export const profileConfig: ProfileConfig = {
 			icon: "fa6-brands:github",
 			url: "https://github.com/GUMI-21",
 		},
+        {
+            name: "Psn",
+            icon: "fa6-brands:playstation",
+            url: "https://psnprofiles.com/Gumi_Lockhart",
+        },
 	],
 };
 
