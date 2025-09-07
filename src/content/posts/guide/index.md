@@ -3,8 +3,8 @@ title: Simple Guides for Fuwari
 published: 2024-04-01
 description: "How to use this blog template."
 image: "./cover.jpeg"
-tags: ["Fuwari", "Blogging", "Customization"]
-category: Guides
+tags: ["Guide"]
+category: "Guide"
 draft: false
 ---
 
@@ -49,3 +49,9 @@ src/content/posts/
     ├── cover.png
     └── index.md
 ```
+https://github.com/saicaca/fuwari
+To edit your blog locally, clone your repository, run *pnpm install* to install dependencies.
+To test, run *pnpm dev*/*pnpm build*
+Edit the config file src/config.ts to customize your blog.
+Run *pnpm new-post <filename>* to create a new post and edit it in src/content/posts/.
+Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following the guides. You need to edit the site configuration in astro.config.mjs before deployment.

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "测试-first"
             }
+          },
+          {
+            "id": "751fb7d2aaf27340",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "149b57e3ec05bcfa",
+  "active": "751fb7d2aaf27340",
   "lastOpenFiles": [
     "dist/pagefind/pagefind-modular-ui.js",
     "dist/pagefind/wasm.unknown.pagefind",

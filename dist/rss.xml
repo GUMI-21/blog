@@ -62,4 +62,10 @@ draft: false
     ├── cover.png
     └── index.md
 &lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;https://github.com/saicaca/fuwari
+To edit your blog locally, clone your repository, run &lt;em&gt;pnpm install&lt;/em&gt; to install dependencies.
+To test, run &lt;em&gt;pnpm dev&lt;/em&gt;/&lt;em&gt;pnpm build&lt;/em&gt;
+Edit the config file src/config.ts to customize your blog.
+Run &lt;em&gt;pnpm new-post &amp;lt;filename&amp;gt;&lt;/em&gt; to create a new post and edit it in src/content/posts/.
+Deploy your blog to Vercel, Netlify, GitHub Pages, etc. following the guides. You need to edit the site configuration in astro.config.mjs before deployment.&lt;/p&gt;
 </content:encoded></item></channel></rss>

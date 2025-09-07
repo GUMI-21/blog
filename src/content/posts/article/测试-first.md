@@ -3,9 +3,8 @@ title: 重启
 published: 2025-08-29
 description: 花了一点时间重新用Astro部署了博客
 image: https://i.pinimg.com/1200x/bc/a3/00/bca300886e006badb02ad04a255338e3.jpg
-tags:
-  - 随笔
-category: 文章
+tags: ["article"]
+category: "article"
 draft: false
 lang: zh-CN
 ---
