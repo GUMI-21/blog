@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gumi&apos;s Blog</title><description>Zhang Wenhao</description><link>https://gumi-21.github.io/</link><language>zh_CN</language><item><title>博客重启</title><link>https://gumi-21.github.io/blog/posts/article/%E6%B5%8B%E8%AF%95-first/</link><guid isPermaLink="true">https://gumi-21.github.io/blog/posts/article/%E6%B5%8B%E8%AF%95-first/</guid><description>花了一点时间重新用Astro部署了博客</description><pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;重启&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Gumi&apos;s Blog</title><description>Zhang Wenhao</description><link>https://gumi-21.github.io/</link><language>zh_CN</language><item><title>Japanese Master Exam Record</title><link>https://gumi-21.github.io/blog/posts/article/japanese-master-exam-record/</link><guid isPermaLink="true">https://gumi-21.github.io/blog/posts/article/japanese-master-exam-record/</guid><description>记录2024.5-2025.8的日本修考之旅</description><pubDate>Tue, 16 Sep 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;2025 日本夏季情报学修士考学记录——京都大学知能（落），九州大学系统情报（合）&lt;/h1&gt;
+&lt;p&gt;我在2025夏季参加了&lt;/p&gt;
+</content:encoded></item><item><title>博客重启</title><link>https://gumi-21.github.io/blog/posts/article/%E6%B5%8B%E8%AF%95-first/</link><guid isPermaLink="true">https://gumi-21.github.io/blog/posts/article/%E6%B5%8B%E8%AF%95-first/</guid><description>花了一点时间重新用Astro部署了博客</description><pubDate>Fri, 29 Aug 2025 00:00:00 GMT</pubDate><content:encoded>&lt;h2&gt;重启&lt;/h2&gt;
 &lt;p&gt;上一次写博客还是很久前，大学期间到毕业后工作一直用的博客园，不过工作后就没有什么时间维护博客了，后来就把笔记全部都全放到本地的obsidian里面，不过笔记项目越来越臃肿了。&lt;br /&gt;
 2024年年初辞职后我准备了很长时间的修士考试结束了，现在时间充裕了点，准备重新把自己有价值的笔记搬到博客上面，也顺带着记录自己新的学习与生活。
-&lt;img src=&quot;./test.jpg&quot; alt=&quot;图片测试&quot; /&gt;
+&lt;img src=&quot;../img/test.jpg&quot; alt=&quot;图片测试&quot; /&gt;
 &amp;lt;div style=&quot;text-align: center; color: grey; font-size: 0.8em;&quot;&amp;gt;
 这是一张测试图片
 &amp;lt;/div&amp;gt;&lt;/p&gt;
